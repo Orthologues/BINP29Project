@@ -1,0 +1,22 @@
+#Smith-Waterman Algorithm is used here
+#Match score: 1
+#Mismatch penalty: -1
+#gap penalty: -1
+
+alignment score: 3
+aligned query: ACT
+aligned reference: ACT
+alignment string: |||
+alignment identity: 3 100.0%
+alignment gaps: 0 0.0%
+alignment mismatches: 0 0.0%
+
+alignment score: 2
+aligned query: CA
+aligned reference: CA
+alignment string: ||
+alignment identity: 2 100.0%
+alignment gaps: 0 0.0%
+alignment mismatches: 0 0.0%
+
+
